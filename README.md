@@ -1,10 +1,15 @@
 # Meetup N°1 : Hello AngularJS - Back to the future
 
-kata : Comment manger des spaghetti jQuery avec les baguettes magiques Angular
+Pour ce premier meetup, on propose la kata **Comment manger des spaghetti jQuery avec les baguettes magiques d'Angular**
 
-L'idée est de migrer une boutique e-commerce basée sur jQuery en une super boutique basée sur AngularJS
+L'idée est de migrer une boutique e-commerce basée sur jQuery qui fait déprimer en une super boutique AngularJS qui donne envie à se fatiguer.
 
-* Le dossier backToTheFutureShop est le point de démarrage.
-* Le dossier backToTheFutureShopWithAngular est une des solutions.
+* Le dossier `BackToTheFutureShopjQuery` est le point de démarrage
+* Le dossier `BackToTheFutureShopAngularJS` est une des solutions AngularJS
+* Le dossier `BackToTheFutureShopAngular2` est LA Solutions Angular2 style Higher Order Component
 
-![alt tag](https://github.com/ngMorocco/meetup-1-kata-Comment-manger-des-spaghetti-jQuery-avec-les-baguettes-magiques-Angular/blob/master/BackToTheFutureShop.jpg)
+
+![](http://imgur.com/vGZFMJr)
+
+
+![](http://imgur.com/k6tft8O)
