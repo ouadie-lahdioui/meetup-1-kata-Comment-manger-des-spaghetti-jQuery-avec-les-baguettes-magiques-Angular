@@ -9,7 +9,7 @@ L'idée est de migrer une boutique e-commerce basée sur jQuery qui fait déprim
 * Le dossier `BackToTheFutureShopAngular2` est LA Solutions Angular2 style Higher Order Component
 
 
-![](http://imgur.com/vGZFMJr)
+![](http://i.imgur.com/vGZFMJr.png)
 
 
-![](http://imgur.com/k6tft8O)
+![](http://i.imgur.com/k6tft8O.png)
