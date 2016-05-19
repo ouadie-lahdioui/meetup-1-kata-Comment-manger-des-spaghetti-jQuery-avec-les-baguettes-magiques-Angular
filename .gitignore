@@ -5,3 +5,10 @@ BackToTheFutureShopAngular2/node_modules/**
 BackToTheFutureShopAngular2/**/*.map
 BackToTheFutureShopAngular2/**/*.js
 **/_test-output
+
+!BackToTheFutureShopAngular2/**/*e2e-spec.js
+!BackToTheFutureShopAngular2/karma*.js
+!BackToTheFutureShopAngular2/protractor*.js
+!BackToTheFutureShopAngular2/systemjs.config.js
+!BackToTheFutureShopAngular2/typings/typings.d.ts
+!BackToTheFutureShopAngular2/wallaby.js
